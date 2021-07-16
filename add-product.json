@@ -1,0 +1,30 @@
+{
+    "title": "Product Name",
+    "subtitle": "Its Subtitle",
+    "description": "Its description",
+    "brand": "Adidas",
+    "currency": "GBP",
+    "images": [
+        "https://www.google.com"
+    ],
+    "sku": 12345678,
+    "upc": 12345678,
+    "dispatch_cargo": "",
+    "price": 299,
+    "special_price": 199,
+    "free_shipping": true,
+    "shipping_service": "UK_RoyalMailSpecialDeliveryNextDay",
+    "shipping_service_cost": "",
+    "weight": 1,
+    "desi": 1,
+    "returns_accepted": true,
+    "refund_option": "MoneyBack",
+    "return_shipping_cost": "Buyer",
+    "category_id": "",
+    "category_name": "",
+    "listing": "Days_10",
+    "listing_type": "FixedPriceItem",
+    "location": "GB",
+    "country": "GB",
+    "site": "UK"
+}
